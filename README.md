@@ -1,4 +1,4 @@
-# dMoney User API Integration Testing
+# DMoney User API Integration Testing
 
 ## Project Summary
 dMoney is a demo money transaction system where users can send money, cash in, make payments, withdraw, deposit, and more! 
